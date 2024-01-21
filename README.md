@@ -21,7 +21,7 @@ To install all the dependences of the project, run the following command:
 
 
 #### Source Code:
- - Link : https://github.com/shakti1590/Polling-api-system
+ - Link : https://github.com/mayankshekhar022/poll-system.git
 
 
 #### Deployment Link:
